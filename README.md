@@ -1,5 +1,5 @@
 # Nyu-databootcamp-final-Amina-KANOUN
-This repository contains my final project for the NYU Data Bootcamp.
+This repository contains my final project for the class
 
 Files:
 - eda.ipynb: Exploratory data analysis of the Titanic dataset
